@@ -13,8 +13,6 @@ Models studied include:
 ## Repository Structure
 
 - `notebooks/`: Research notebooks organized conceptually
-- `figures/`: Generated figures for analysis and paper use
-- `src/`: Shared model and pricing utilities
 - `requirements.txt`: Reproducible environment
 
 ## Key Topics
